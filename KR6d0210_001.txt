@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:51:43.977620
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:40
 #+TITLE: 觀心食法
 #+PROPERTY: CBETA_ID X55n0911
 #+PROPERTY: ID KR6d0210
